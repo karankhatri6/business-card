@@ -76,6 +76,7 @@ body {
     font-size: 14px;
     line-height: 16px;
     color: #374151;
+    cursor: pointer;
 }
 
 .btn-container .mail-btn .mail-icon{
@@ -94,6 +95,7 @@ body {
     font-size: 14px;
     line-height: 16px;
     color: #ffffff;
+    cursor: pointer;
 }
 
 .btn-container .linkedin-btn .linkedin-icon{
@@ -158,23 +160,27 @@ body {
     background: #918E9B;
     padding: 2px;
     border-radius: 1px;
+    cursor: pointer;
 }
 
 .footer .facebook-icon{
     margin-left: 26px;
     background: #918E9B;
     padding: 2px;
+    cursor: pointer;
 }
 
 .footer .instagram-icon{
     margin-left: 26px;
     background: #918E9B;
     padding: 2px;
+    cursor: pointer;
 }
 
 .footer .github-icon{
     margin-left: 26px;
     background: #918E9B;
     padding: 2px;
+    cursor: pointer;
 }
 
