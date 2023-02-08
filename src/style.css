@@ -22,7 +22,7 @@ body {
 
 .inner-box{
     width: 317px;
-    height: 780px;
+    height: 760px;
     background-color: #1A1B21;
     margin-top: 44px;
     margin-left: 110px;
@@ -143,3 +143,38 @@ body {
     line-height: 150%;
     color: #DCDCDC;
 }
+
+.footer{
+    margin-top: 20px;
+    width: 317px;
+    height: 64px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.footer .twitter-icon{
+    margin-left: 73px;
+    margin-top: 19px;
+    background: #918E9B;
+    padding: 2px;
+    border-radius: 1px;
+}
+
+.footer .facebook-icon{
+    margin-left: 26px;
+    background: #918E9B;
+    padding: 2px;
+}
+
+.footer .instagram-icon{
+    margin-left: 26px;
+    background: #918E9B;
+    padding: 2px;
+}
+
+.footer .github-icon{
+    margin-left: 26px;
+    background: #918E9B;
+    padding: 2px;
+}
+
